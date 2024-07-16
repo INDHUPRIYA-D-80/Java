@@ -39,7 +39,6 @@ public class Challenge2 {
     else{
         System.out.println("The number is ODD number");
     }
-
-
+    scan.close();
 }
 }

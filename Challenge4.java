@@ -26,6 +26,7 @@ public class Challenge4 {
         System.out.println("Enter your mark Out of 100");
         int mark = scan.nextInt();
         o1.passfail(mark);
+        scan.close();
     }
     
 }

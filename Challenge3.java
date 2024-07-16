@@ -24,6 +24,7 @@ public class Challenge3 {
             }
         }
         System.out.println(count);
+        scan.close();
     }
-    
+
 }

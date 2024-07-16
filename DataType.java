@@ -5,6 +5,12 @@ public class DataType {
         char myLetter = 'D';          // Character
         boolean myBool = true;        // Boolean
         String myText = "Hello";      // String
+        System.out.println(myNum1);
+        System.out.println(myFloatNum);
+        System.out.println(myLetter);
+        System.out.println(myBool);
+        System.out.println(myText);
+        // System.out.println(myNum2);
 
         int myNum2 = 100000;
         System.out.println(myNum2);

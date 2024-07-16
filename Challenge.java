@@ -23,7 +23,7 @@ public class Challenge {
     double m=m1+m2+m3;
     System.out.println(m/10 +"/10");
     System.out.println("Your department is "+dept);
-    
+    scan.close();
     }
     
 }
